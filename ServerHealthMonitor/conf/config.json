@@ -1,0 +1,23 @@
+{
+	"sendReportOnSOS":true,
+	"startTime":"0/5 * * * * ?",
+	"sendReportOnEOS":false,
+	"endTime":"0 0 19 ? * * *",
+	"writeOutputFile": false,
+	"outputFilePath": "C:\\Users\\s622\\Documents\\ph",
+	"triggerFrequency": "0 0/5 * * * ?",
+	"trackingTimeInSecs":"60",
+	"triggerEmail": false,
+	"mailTo": "sahil.s@metlife.com",
+	"cc": "",
+	"driveToCheck": "C:",
+	"thresholdConfig": {
+		"cpu_load_threshold": 40,
+		"ram_threshold": 55,
+		"disk_usage_threshold": 50
+	},
+	"smtpConfig": {
+		"host": "mftest.metlife.com",
+		"from": "do_not_reply@MetComTest.com"
+	}
+} 

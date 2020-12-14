@@ -1,0 +1,158 @@
+Dec 01, 2020 3:04:45 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:04:53 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 36.66 | RAM Avg load--> 78.36 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:04:53 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:04:53 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:05:00 PM com.bpm.Logger info
+INFO: Checking health
+Dec 01, 2020 3:05:01 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 30.41 | RAM Avg load--> 78.48 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:05:01 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:05:01 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:05:05 PM com.bpm.Logger info
+INFO: CPU Avg load--> 23.95 | RAM Avg load--> 78.25 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:05:09 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 33.11 | RAM Avg load--> 78.32 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:05:09 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:05:09 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:05:17 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 21.31 | RAM Avg load--> 77.88 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:05:17 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:05:17 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:05:26 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 23.55 | RAM Avg load--> 77.82 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:05:26 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:05:26 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:05:34 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 24.74 | RAM Avg load--> 77.87 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:05:34 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:05:34 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:05:42 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 32.97 | RAM Avg load--> 77.98 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:05:42 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:05:42 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:05:50 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 28.7 | RAM Avg load--> 78.26 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:05:50 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:05:50 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:05:58 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 24.5 | RAM Avg load--> 78.31 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:05:58 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:05:58 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:06:06 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 22.12 | RAM Avg load--> 78.33 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:06:06 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:06:06 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:06:14 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 22.35 | RAM Avg load--> 78.35 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:06:14 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:06:14 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:06:22 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 22.41 | RAM Avg load--> 78.04 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:06:22 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:06:22 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:06:30 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 23.91 | RAM Avg load--> 77.82 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:06:30 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:06:30 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:06:38 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 24.54 | RAM Avg load--> 77.8 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:06:38 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:06:38 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:06:46 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 36.79 | RAM Avg load--> 78.85 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:06:46 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:06:46 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:06:54 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 28.25 | RAM Avg load--> 79.26 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:06:54 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:06:54 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:07:02 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 20.77 | RAM Avg load--> 79.33 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:07:03 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:07:03 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:07:11 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 28.15 | RAM Avg load--> 78.66 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:07:11 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:07:11 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:07:19 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 25.11 | RAM Avg load--> 75.33 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:07:19 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:07:19 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:07:27 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 24.56 | RAM Avg load--> 74.4 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:07:27 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:07:27 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:09:05 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:09:14 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 23.45 | RAM Avg load--> 82.6 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:09:14 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:09:14 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:09:22 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 25.76 | RAM Avg load--> 82.23 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:09:22 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:09:22 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:09:30 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 27.11 | RAM Avg load--> 82.22 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:09:30 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:09:30 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:09:38 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 26.54 | RAM Avg load--> 82.03 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:09:38 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:09:38 PM com.bpm.Logger info
+INFO: Sending status report of the server.....
+Dec 01, 2020 3:09:46 PM com.bpm.Logger info
+INFO: Status Report---->>>CPU Avg load--> 33.64 | RAM Avg load--> 82.04 | Disk Avg Usage--> 69.0
+Dec 01, 2020 3:09:46 PM com.bpm.Logger info
+INFO: Triggering email to/cc --->> [sahil.s@metlife.com] | CC--> []
+Dec 01, 2020 3:09:46 PM com.bpm.Logger info
+INFO: Sending status report of the server.....

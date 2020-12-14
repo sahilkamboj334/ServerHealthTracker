@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/s622/Downloads/jar_files/sigar-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s622/Downloads/quartz-2.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s622/Downloads/jar_files/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s622/Downloads/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s622/Downloads/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/s622/Downloads/apache-maven-3.6.3/apache-maven-3.6.3/lib/slf4j-api-1.7.29.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
